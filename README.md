@@ -4,7 +4,7 @@ Vous êtes développeur, intégrateur, chef de projet web, designer UI/UX, ou ex
 
 Vous pouvez postuler en ligne sur le site <a href="https://www.easypartner.fr">Easy Partner</a> ou par email à l'adresse <A HREF="mailto:recrutement@easypartner.fr ">recrutement@easypartner.fr</A>
 
-Voir nos derniers Jobs :
+# Voir nos derniers Jobs Python
 
 Data engineer AWS | Paris | <a href="https://www.easypartner.fr/offres-emplois/data-engineer-aws-h-f-3/">Voir l'offre</a> 
 
