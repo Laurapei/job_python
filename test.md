@@ -1,28 +1,27 @@
-LA SOCIÉTÉ
+## LA SOCIÃ‰TÃ‰ ##
+Notre client est une sociÃ©tÃ© cherchant en permanence Ã  innover pour Ã©clairer au mieux ses internautes et pour leur proposer une expÃ©rience simplifiÃ©e, agrÃ©able et instructive.
+Dans le cadre de la crÃ©ation de lâ€™Ã©quipe agile Data I/O, dÃ©diÃ©e Ã  la gouvernance de sa Datalake et composÃ©e dâ€™un(e) PO et de plusieurs Data Engineers, la sociÃ©tÃ© recherche un(e) Data Engineer H/F.
 
-Notre client est une société cherchant en permanence à innover pour éclairer au mieux ses internautes et pour leur proposer une expérience simplifiée, agréable et instructive.
-Dans le cadre de la création de l’équipe agile Data I/O, dédiée à la gouvernance de sa Datalake et composée d’un(e) PO et de plusieurs Data Engineers, la société recherche un(e) Data Engineer H/F.
+### LES MISSIONS ###
 
-LES MISSIONS
+Votre rÃ´le, avec votre Ã©quipe, serade centraliser la donnÃ©e de lâ€™entreprise et de garantir sa qualitÃ© et son exploitation, notamment par la BI, les Data Scientists et les Business Analysts.
+Pour cela vous effectuerez notamment les missions suivantes : * ImplÃ©menter des jobs autour de la data : * Ingestion * ModÃ©lisation/transformation * ContrÃ´le qualitÃ© et dÃ©tection dâ€™anomalies * Exposition (APIs, Data Catalog, â€¦) * DÃ©ployer les applications sur AWS dans un contexte devops * Participation Ã  la gouvernance de la donnÃ©e (process, normalisation, MDM, â€¦) * Participation Ã  lâ€™Ã©volution de la stack technique (framework, CI/CD, IaC, â€¦) et au choix des outils
+Ce nâ€™est pas trÃ¨s concret ? Voici quelques exemples de projets gÃ©rÃ©s par lâ€™Ã©quipe : * Pipeline temps rÃ©el de tracking web * RÃ©fÃ©rentiel dâ€™utilisateurs uniques * RÃ©fÃ©rentiel de biens immobiliers uniques (dÃ©doublonnage, historique, extraction de features, â€¦) * DÃ©tection dâ€™anomalies dans des flux de donnÃ©es temps rÃ©el * Datalake sur AWS, et sa gouvernance (MDM, Self-service, â€¦)
 
-Votre rôle, avec votre équipe, serade centraliser la donnée de l’entreprise et de garantir sa qualité et son exploitation, notamment par la BI, les Data Scientists et les Business Analysts.
-Pour cela vous effectuerez notamment les missions suivantes : * Implémenter des jobs autour de la data : * Ingestion * Modélisation/transformation * Contrôle qualité et détection d’anomalies * Exposition (APIs, Data Catalog, …) * Déployer les applications sur AWS dans un contexte devops * Participation à la gouvernance de la donnée (process, normalisation, MDM, …) * Participation à l’évolution de la stack technique (framework, CI/CD, IaC, …) et au choix des outils
-Ce n’est pas très concret ? Voici quelques exemples de projets gérés par l’équipe : * Pipeline temps réel de tracking web * Référentiel d’utilisateurs uniques * Référentiel de biens immobiliers uniques (dédoublonnage, historique, extraction de features, …) * Détection d’anomalies dans des flux de données temps réel * Datalake sur AWS, et sa gouvernance (MDM, Self-service, …)
+### VOTRE PROFIL ###
 
-VOTRE PROFIL
-
-Maîtrise de Scala
+MaÃ®trise de Scala
 Esprit Agile
 Spark
 SQL 
 
-VOS ATOUTS
+## VOS ATOUTS ##
 
 AWS (Cloud Formation, EMR, Redshift, Bus/Broker)
 Python, Java
 Docker
 
-COMMENT POSTULER ?
+## COMMENT POSTULER  ? ##
  
-Pour postuler, envoyez-nous un email à recrutement@easypartner.fr avec un CV ou bien un profil LinkedIn à jour. À bientôt !
+Pour postuler, envoyez-nous un email Ã  recrutement@easypartner.fr avec un CV ou bien un profil LinkedIn Ã  jour. Ã€ bientÃ´t !
 
