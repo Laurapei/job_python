@@ -7,9 +7,15 @@ Vous pouvez postuler en ligne sur le site <a href="https://www.easypartner.fr">E
 Voir nos derniers Jobs :
 
 Data engineer AWS | Paris | <a href="https://www.easypartner.fr/offres-emplois/data-engineer-aws-h-f-3/">Voir l'offre</a> 
+
 Développeur Python Full Stack | Paris | <a href="https://www.easypartner.fr/offres-emplois/developpeur-python-full-stack-h-f/">Voir l'offre</a> 
+
 Ingénieur DevOps | Paris | <a href="https://www.easypartner.fr/offres-emplois/padoa/">Voir l'offre</a> 
+
 Développeur Full Stack Python React | Paris | <a href="https://www.easypartner.fr/offres-emplois/developpeur-full-stack-python-react-h-f/">Voir l'offre</a> 
+
 Software Backend Engineer | Paris | <a href="https://www.easypartner.fr/offres-emplois/software-backend-engineer-startup-medicale/">Voir l'offre</a> 
+
 Développeur Python Django | Paris | <a href="https://www.easypartner.fr/offres-emplois/developpeur-python-django-h-f/">Voir l'offre</a> 
+
 Développeur Python | Paris | <a href="https://www.easypartner.fr/offres-emplois/developpeur-python-cooperative-ouvriere-paris-h-f/">Voir l'offre</a> 
